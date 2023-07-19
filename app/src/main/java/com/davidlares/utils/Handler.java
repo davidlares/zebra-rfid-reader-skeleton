@@ -49,7 +49,7 @@ public class Handler implements RfidEventsListener {
                             e.printStackTrace();
                         } catch (OperationFailureException e) {
                             e.printStackTrace();
-                        } 
+                        }
                         return null;
                     }
                 }.execute();
