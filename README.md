@@ -1,4 +1,4 @@
-# Zebra RFID Reader integration demo
+## Zebra RFID Reader integration demo
 
 This RFIDApp is a skeleton for demo purposes; it's untested for production environments. It performs a Reader connection inside async tasks.
 
